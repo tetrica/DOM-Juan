@@ -1,5 +1,5 @@
 # DOM-Juan
-A simple set of functions to a simple virtual DOM
+A simple react meta framework
 
 
 ## SPONSORS 
